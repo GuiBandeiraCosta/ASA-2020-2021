@@ -5,7 +5,7 @@ The cost between processes running in the same processor is always 0.
 Find the lowest possible cost to run all processes by assigning
 them to each of the processors;
 
-Exemple
+Example
 Execution costs of each pi process
 
 i  1 2 3 4
@@ -41,7 +41,7 @@ superior since the matrix is ​​symmetrical;
 Output
  Integer representing the minimun cost
 
-Exemple
+Example
 
 input 1
 4 4
