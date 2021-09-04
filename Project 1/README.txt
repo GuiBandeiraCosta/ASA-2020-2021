@@ -15,7 +15,7 @@ containing any character other than the end of line.
 Output
  <min> <longest> where <min> corresponds to the minimum amount of vertices to reach all elements and  <longest> corresponds to the longest path.
 
-Exemple
+Example
 Input
 7 8
 3 4
