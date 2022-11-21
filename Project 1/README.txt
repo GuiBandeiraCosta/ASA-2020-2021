@@ -30,4 +30,4 @@ Output
 2 5
 
 Compilation
- g++ -std=c++11 -O3 -Wall solver.cpp -lm
+ g++ -std=c++11 -O3 -Wall Solver.cpp -lm
