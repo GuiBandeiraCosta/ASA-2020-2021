@@ -57,4 +57,4 @@ output 1
 24
 
 Compilation
- g++ -std=c++11 -O3 -Wall file.cpp -lm
+ g++ -std=c++11 -O3 -Wall Proj2.cpp -lm
